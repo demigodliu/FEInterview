@@ -1,11 +1,23 @@
+🌐 English | [简体中文](./README-zh.md)
+
 # Frontend Interview Questions
 
-🚀 A collection of frontend interview questions to help you prepare.
+A growing collection of frontend interview questions from beginner to advanced levels, helping you prepare efficiently for technical interviews.
 
-Browse, learn, and contribute!
+## Usage
+
+- Browse questions by topic and difficulty  
+- Practice coding and improve problem-solving skills
+
+## Contributing
+
+- Report issues or suggest improvements via Issues  
+- Add or update questions via Pull Requests
+
+## License
+
+MIT License
 
 ---
 
-Feel free to open issues or PRs.
-
-MIT License
+Good luck with your interviews! 🎉
